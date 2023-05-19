@@ -1,7 +1,7 @@
 {
 	"name": "@dvina/ngx-leaflet-smooth-zoom",
 	"description": "Angular directives for the Leaflet Smooth Zoom plugin",
-	"version": "15.0.0",
+	"version": "16.0.0",
 	"author": "Kant Yazılım A.Ş.",
 	"license": "MIT",
 	"repository": {
@@ -9,12 +9,12 @@
 		"url": "https://github.com/dvina-ai/ngx-leaflet-smooth-zoom.git"
 	},
 	"peerDependencies": {
-		"@angular/common": "15",
-		"@angular/core": "15",
+		"@angular/common": "16",
+		"@angular/core": "16",
 		"leaflet": "1"
 	},
 	"dependencies": {
 		"projektpro-leaflet-smoothwheelzoom": "^0.1.4",
-		"tslib": "^2.3.0"
+		"tslib": "^2.4.0"
 	}
 }
